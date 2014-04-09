@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Personal Web Assistant-Pilot Test</string>
+    <string name="hello_world">welcome to the world of context aware non-obtrusive information! :)</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ontology">OntologyActivity</string>
+
+</resources>
